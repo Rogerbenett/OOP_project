@@ -1,1 +1,1 @@
-# OOP_project
+# Medical Centre Management System
